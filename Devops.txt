@@ -12,7 +12,7 @@ Release features faster
 Fix bugs quickly
 Automate repetitive tasks
 
-Devops Lifecycle:
+Devops Development Lifecycle:
 Plan:Define what to build
 Develop:Write the code
 Build:Compile code into deployable format
