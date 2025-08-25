@@ -1,0 +1,29 @@
+Devops:
+Deveops=Development + Operations
+It's a culture+ set of practices+ntools that help
+Developers(who write the code)
+Operations(who deploy/manage systems)
+Work together, instead of working in silos.
+Real-time  Example:
+Without devops : Developer gives code to Ops team, they manually deploy, bugs happen, delays.
+With devops : Code is automatically tested and deployed. customers get updates faster and safely. 
+Devops helps you:
+Release features faster
+Fix bugs quickly
+Automate repetitive tasks
+
+Devops Lifecycle:
+Plan:Define what to build
+Develop:Write the code
+Build:Compile code into deployable format
+Test:Check for bugs automatically
+Release:Approve the build for deployment.
+Operate:Keep app running, fix any issues
+Monitor:Analyze performance and feedback.
+
+What is Git & GitHub?
+Git=Version control System(local)
+Github=Online platform to store Git projects.
+
+
+
